@@ -1,18 +1,16 @@
 Parsley.js
 ==========
 
-Meteor packaging for Parsley.js.
+Meteor packaging for Parsley.js.  
 
-If I forgot to upgrade to the latest Parsley version, please start a new issue
-or find a way to notify me and I'll happily upgrade it for you. Or if you want
-to be nice and save me a few seconds; fork it, make a PR and I'll merge it.
+Upgraded to version 2.1.2 of parsley.js. 
 
 Quick Setup 
 ===========
 
 For 0.9.0 and newer run this to install. 
 
-`meteor add amr:parsley.js`
+`meteor add adriamooney:parsley.js`
 
 For versions older than 0.9.0 run this to install.
 
