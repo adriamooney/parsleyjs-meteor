@@ -1,6 +1,6 @@
 Package.describe({
   summary: "Javascript forms validation. Powerful, UX aware, and dead simple.",
-  version: "2.1.2",
+  version: "2.1.3",
   name: "adriamooney:parsley.js",
   git: "https://github.com/adriamooney/parsleyjs-meteor.git"
 });
