@@ -7,7 +7,7 @@ Package.describe({
 
 Package.on_use(function (api) {
   api.use('jquery@1.0.0', 'client');
-  api.use('less@1.0.0 || 2.5.0', 'client');
+  api.use('less@1.0.0 || 2.5.7', 'client');
   api.add_files('parsley.min.js', 'client');
   api.add_files('parsley_variables.less', 'client');
   api.add_files('parsley.less', 'client');
